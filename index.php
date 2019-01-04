@@ -6,6 +6,9 @@
 </head>
 <body>
     <h1>Pair Program 1</h1>
-    <?php include 'functions.php';?>
+    <?php include 'functions.php';
+
+    printArray($numbers, $numbersLength)
+    ?>
 </body>
 </html>
